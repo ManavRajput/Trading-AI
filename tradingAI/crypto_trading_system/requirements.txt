@@ -1,0 +1,3 @@
+requests
+python-binance # If you were using it previously
+nltk # If you will use it for sentiment analysis
