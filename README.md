@@ -61,7 +61,7 @@ Trading-AI/ ├── agents/ │ ├── agent1_data_collector.py │ ├─�
 
 ## 📬 Contact
 
-For collaborations or questions, feel free to connect via GitHub or email.
+For collaborations or questions, feel free to connect via GitHub or email {manavpathania780@gmail.com} Subject should be GITHUB ENQUIRY
 
 ---
 
