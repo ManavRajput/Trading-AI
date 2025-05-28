@@ -1,4 +1,4 @@
-# Trading-AI
+# Trading-AI (Work In Progress)
 
 🚀 **Agentic AI-based Crypto Trading Bot** (Work in Progress)
 
